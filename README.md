@@ -47,17 +47,6 @@ I enjoy tackling creative challenges, writing clean/maintainable code, and optim
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-<a href="https://github.com/Jonathn1001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonathn1001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathn1001&layout=compact&theme=tokyonight"/>
-</a>
-</div>
-
----
-
 ### 🌱 Current Learning Focus
 * **Advanced Backend:** Deepening knowledge in Node.js architecture and System Design.
 * **Machine Learning:** Exploring Python libraries and training models (currently experimenting with CIFAR-10 datasets).
