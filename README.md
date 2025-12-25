@@ -1,4 +1,4 @@
-# Hi there, I'm Le Tan Sang! 👋
+# Hi there, I'm Sang Le! 👋
 ### Fullstack Developer (FE Focus) | ReactJS & NodeJS Enthusiast
 
 I am a software engineer with **over 5 years of hands-on experience** crafting responsive, high-performance web applications. While my deep expertise lies in **Front-End Development (React.js)**, I am actively expanding my capabilities as a **Full-Stack Developer** using the MERN stack.
