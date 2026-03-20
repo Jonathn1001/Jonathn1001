@@ -1,8 +1,7 @@
 # Hi there, I'm Sang Le! 👋
-### Fullstack Developer (FE Focus) | ReactJS & NodeJS Enthusiast
+### Fullstack Developer 
 
-I am a software engineer with **over 5 years of hands-on experience** crafting responsive, high-performance web applications. While my deep expertise lies in **Front-End Development (React.js)**, I am actively expanding my capabilities as a **Full-Stack Developer** using the MERN stack.
-
+I am a software engineer with **over 5 years of hands-on experience** crafting responsive, high-performance web applications
 I enjoy tackling creative challenges, writing clean/maintainable code, and optimizing user experiences.
 
 ---
