@@ -76,7 +76,7 @@
 
   ### 🌱 Current Learning Focus
   * **Advanced Backend Architecture:** System design, NestJS patterns, and microservices.
-  * **Machine Learning:** Python ML libraries; experimenting with image classification (CIFAR-10).
+  * **Cybersecurtity:** OWASP TOP10
   * **Education:** Pursuing a degree in Information Technology at PTIT (Posts and Telecommunications Institute of Technology).
 
   ---
