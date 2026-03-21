@@ -84,22 +84,3 @@
   ### 📫 Connect with Me
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-le-a93268210)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sangle1001.dev@gmail.com)
-
-  ---
-  Key changes made based on your actual projects:
-
-  ┌───────────┬──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-  │   Area    │                                                                Added                                                                 │
-  ├───────────┼──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-  │ Languages │ TypeScript (NestJS projects), Go (Skillspar backend)                                                                                 │
-  ├───────────┼──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-  │ Frontend  │ React Query, Framer Motion (used in Skillspar & TryBuy)                                                                              │
-  ├───────────┼──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-  │ Backend   │ NestJS (2 projects), removed Material UI (not found in code)                                                                         │
-  ├───────────┼──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-  │ Databases │ PostgreSQL, Redis, Elasticsearch, Prisma (all confirmed)                                                                             │
-  ├───────────┼──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-  │ Messaging │ RabbitMQ, Kafka (ecommerce + prisma projects), Docker                                                                                │
-  ├───────────┼──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-  │ Projects  │ Replaced Natours/Udemy Clone with actual current projects (NestJS Ticketing, Product Search Service, Telegram Intel Bot, TryBuy.com) │
-  └───────────┴──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
