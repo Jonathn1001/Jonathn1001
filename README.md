@@ -45,10 +45,6 @@
 
   ### 🔭 Experience & Projects
 
-  **Currently Working On:**
-  * **Skillspar** — An interactive IT Security & Practical Training Platform. Building the frontend with ReactJS, TailwindCSS, React Query, and Framer Motion; backend microservices include auth, event handling, multi-tenant support, and phishing
-  simulation modules.
-
   **Featured Personal Projects:**
 
   * 🛒 **E-Commerce Backend API** — A robust and scalable e-commerce backend covering the full purchase lifecycle.
