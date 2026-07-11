@@ -1,5 +1,5 @@
 # Hi there, I'm Sang Le! 👋
-  ### Fullstack Developer
+  ### Software Engineering
 
   I am a software engineer with **over 6 years of hands-on experience** crafting responsive, high-performance web applications.
   I enjoy tackling creative challenges, writing clean/maintainable code, and optimizing user experiences.
