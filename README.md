@@ -4,6 +4,8 @@
   I am a software engineer with **over 6 years of hands-on experience** crafting responsive, high-performance web applications.
   I enjoy tackling creative challenges, writing clean/maintainable code, and optimizing user experiences.
 
+  🎯 Currently a **Software Engineer** growing toward **Application Security Engineering** — deepening my systems and security foundations (memory safety, exploitation primitives, network protocols).
+
   ---
 
   ### 🛠️  Tech Stack
@@ -47,6 +49,16 @@
 
   **Featured Personal Projects:**
 
+  * 🛡️ **CS:APP Visualizer** — [Live](https://jonathn1001.github.io/csapp-visualizer/) · An **Application Security–focused** interactive learning engine for Computer Systems (CS:APP).
+    * Pure-TypeScript simulation engine (unit-tested against the book's worked examples) with a React replay UI; every concept renders as a step-by-step state trace.
+    * AppSec modules: stack smashing & buffer overflow → control-flow hijack, stack canaries (`-fstack-protector`), NX + ASLR, signed/integer overflow → heap overflow, address translation, and race conditions.
+    * *Stack:* TypeScript · React · Vite · Vitest · TailwindCSS
+
+  * 🌐 **NetViz** — [Live](https://jonathn1001.github.io/netviz/) · An interactive sandbox for Computer Networking (Kurose & Ross, top-down).
+    * Each protocol is a deterministic, discrete-event state machine replayed packet-by-packet — a wrong engine sends the packet the wrong way and a test fails.
+    * Covers Ch. 1–6 with a Trace Mode composing the layers (TCP `cwnd`/loss recovery, Dijkstra routing, DNS, sockets).
+    * *Stack:* TypeScript · React · Vite · Vitest · Zustand · Framer Motion · TailwindCSS
+
   * 🛒 **E-Commerce Backend API** — A robust and scalable e-commerce backend covering the full purchase lifecycle.
     * User auth (JWT), product catalog, shopping cart, discount engine, order management, inventory tracking, nested comments, and real-time notifications.
     * File uploads to **Cloudinary** and **AWS S3**; async processing via **RabbitMQ** and **Kafka**.
@@ -71,8 +83,9 @@
   ---
 
   ### 🌱 Current Learning Focus
+  * **🎯 Career Goal — Application Security Engineer:** transitioning from backend engineering into AppSec.
+  * **Application Security:** OWASP Top 10, memory safety & binary exploitation fundamentals (CS:APP), secure-by-design review.
   * **Advanced Backend Architecture:** System design, NestJS patterns, and microservices.
-  * **Cybersecurtity:** OWASP TOP10
   * **Education:** Pursuing a degree in Information Technology at PTIT (Posts and Telecommunications Institute of Technology).
 
   ---
