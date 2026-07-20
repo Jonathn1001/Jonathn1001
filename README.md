@@ -73,17 +73,10 @@
     * Modules: users, tickets, orders, stock management.
     * *Stack:* NestJS · TypeORM · MySQL · PostgreSQL · Winston
 
-  * 🔍 **Product Search Service** — A product microservice with full-text search and event-driven sync.
-    * Prisma ORM for MySQL persistence; Elasticsearch for search indexing; RabbitMQ for async data synchronization.
-    * *Stack:* NestJS · Prisma · MySQL · Elasticsearch · RabbitMQ
-
   * 🤖 **Telegram Intel Bot** — A passive channel monitor with on-demand AI-powered intelligence analysis.
     * Dual Telegram identity: Telethon (MTProto) for channel reading, aiogram for bot commands.
     * Commands: `/summary`, `/trends`, `/entities`, `/threat` — powered by **Google Gemini 1.5 Pro**.
     * *Stack:* Python · Telethon · aiogram · Gemini API · Docker
-
-  * 🛍️  **TryBuy.com** — A full-stack e-commerce application with a modern React frontend and Node.js backend.
-    * *Stack:* React · React Hook Form · Framer Motion · Node.js
 
   ---
 
