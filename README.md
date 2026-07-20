@@ -59,6 +59,11 @@
     * Covers Ch. 1–6 with a Trace Mode composing the layers (TCP `cwnd`/loss recovery, Dijkstra routing, DNS, sockets).
     * *Stack:* TypeScript · React · Vite · Vitest · Zustand · Framer Motion · TailwindCSS
 
+  * 🗄️ **DDIA Visualized** — [Live](https://jonathn1001.github.io/ddia-visualized/) · An interactive lab for *Designing Data-Intensive Applications* — all 12 chapters as simulations you can break.
+    * Pure-TypeScript discrete-event engine (seeded RNG, virtual clock, snapshot/replay) fully separated from a React UI; every protocol is a hand-written pure reducer, property-tested with fast-check (e.g. Raft never elects two leaders in one term).
+    * 19 labs across all 12 chapters — LSM/B-tree storage, replication, consistent-hashing partitioning, isolation anomalies, an unreliable-network + fencing playground, a 5-node Raft + linearizability checker, MapReduce-vs-dataflow, Kafka/RabbitMQ/Redis brokers, an unbundled-database CDC pipeline — each with 2–3 engine-verified chaos challenges (produce a stale read, cause a split-brain, lose an acked write).
+    * *Stack:* TypeScript · React · Vite · Vitest · fast-check · Zustand · Framer Motion · TailwindCSS
+
   * 🛒 **E-Commerce Backend API** — A robust and scalable e-commerce backend covering the full purchase lifecycle.
     * User auth (JWT), product catalog, shopping cart, discount engine, order management, inventory tracking, nested comments, and real-time notifications.
     * File uploads to **Cloudinary** and **AWS S3**; async processing via **RabbitMQ** and **Kafka**.
