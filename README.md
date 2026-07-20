@@ -1,8 +1,8 @@
 # Hi there, I'm Sang Le! 👋
   ### Software Engineering
 
-  I am a software engineer with **over 6 years of hands-on experience** crafting responsive, high-performance web applications.
-  I enjoy tackling creative challenges, writing clean/maintainable code, and optimizing user experiences.
+  I am a software engineer with **over 6 years of hands-on experience** and a **security mindset** — I build high-performance systems and think about how they break.
+  I enjoy tackling creative challenges, writing clean/maintainable code, and hardening what I ship against real-world failure and abuse.
 
   🎯 Currently a **Software Engineer** growing toward **Application Security Engineering** — deepening my systems and security foundations (memory safety, exploitation primitives, network protocols).
 
@@ -73,9 +73,9 @@
     * Modules: users, tickets, orders, stock management.
     * *Stack:* NestJS · TypeORM · MySQL · PostgreSQL · Winston
 
-  * 🤖 **Telegram Intel Bot** — A passive channel monitor with on-demand AI-powered intelligence analysis.
-    * Dual Telegram identity: Telethon (MTProto) for channel reading, aiogram for bot commands.
-    * Commands: `/summary`, `/trends`, `/entities`, `/threat` — powered by **Google Gemini 1.5 Pro**.
+  * 🤖 **Telegram Intel Bot** — A passive channel + forum monitor with on-demand AI intelligence and scheduled daily digests.
+    * Dual Telegram identity: Telethon (MTProto) reads channels and VOZ news megathreads, aiogram serves an interactive bot (quick-start keyboard, native command menu, prompt flows, rate limiting).
+    * Commands: `/summary`, `/trends`, `/entities`, `/threat`, `/factcheck`, `/thread`, `/paper` (Vietnamese press megathreads), `/hn` (Hacker News) — plus HN + press digests auto-posted daily, all powered by **Google Gemini 2.5 Flash**.
     * *Stack:* Python · Telethon · aiogram · Gemini API · Docker
 
   ---
